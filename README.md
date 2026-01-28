@@ -3,7 +3,7 @@
 Este es mi primer sitio web publicado con GitHub Pages.
 
 ## 🚀 Cómo ver el sitio
-Visita: https://[tu-usuario].github.io/[nombre-repositorio]/
+Visita: https://silvioayalaa.github.io/website-test-sayala/
 
 ## 📁 Estructura
 - `index.html` - Página principal
